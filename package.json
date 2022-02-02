@@ -1,5 +1,5 @@
 {
-  "name": "react-native-secure-storage",
+  "name": "@btx/react-native-secure-storage",
   "title": "React Native Secure Storage",
   "version": "0.1.2",
   "description": "A secure AsyncStorage partial implementation",
